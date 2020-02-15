@@ -37,6 +37,7 @@ Field varibles in interface are public, static and final and so should be initia
 Static and Default methods with full defination can slao be member of interface<br>
 
 # CODE
-[Using interface and class all together](https://github.com/Nehasingh1300/Java/blob/master/InterfacingCode.java)
-[Using Interfaces](https://github.com/Nehasingh1300/Java/blob/master/MYClass.java)
-[Constant usage of Interface](https://github.com/Nehasingh1300/Java/blob/master/ConstantINTERFACE.java)
+[Using interface and class all together](https://github.com/Nehasingh1300/Java/blob/master/InterfacingCode.java)<br>
+[Using Interfaces](https://github.com/Nehasingh1300/Java/blob/master/MYClass.java)<br>
+[Constant usage of Interface](https://github.com/Nehasingh1300/Java/blob/master/ConstantINTERFACE.java)<br>
+[Division Modulus Interface](https://github.com/Nehasingh1300/Java/blob/master/DivModInterface.java)
