@@ -72,7 +72,7 @@ className.interfaceName // to access the nested interface
 ``
 [Nested Interfaces](https://github.com/Nehasingh1300/Java/blob/master/NestedInterface.java)<br>
 
-## Inheritance Of Intetrfaces
+## Inheritance Of Interfaces
 [Code][https://github.com/Nehasingh1300/Java/blob/master/Inheritance%20Of%20Interfaces.java)<br>
 
 
