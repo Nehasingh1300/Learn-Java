@@ -36,8 +36,46 @@ Methods declared in interface are implicitly public abstract member methods<br>
 Field varibles in interface are public, static and final and so should be initialized<br>
 Static and Default methods with full defination can slao be member of interface<br>
 
+## Points To Ponder
+class extending class and interface **Multiple Interfaces**<br>
+```
+class ClassName extends ClassTOBeExtended implements InterfaceName
+```
+class extending interface only<br>
+```
+class ClassName implementing InterfaceName
+```
+**Object Reference of Interface**<br>
+```
+interfaceName ReferenceName;
+```
+Constants in Interface <br>
+Instance Variables are implicitly public and final <br>
+[Constant usage of Interface : CHECK IT OUT](https://github.com/Nehasingh1300/Java/blob/master/ConstantINTERFACE.java)<br>
+
+## Stub Methods
+We have to  define all abstract methods of interface in its subclass, if we do not need defination of all the methods then we can make those methods as **STUB METHODS**.<br>
+[Stub Methods](https://github.com/Nehasingh1300/Java/blob/master/StubMethods.java)<br>
+```
+	public double getlength(){    //STUB METHOD 
+		return 0;
+	}
+	public void getWidth() {      //STUB METHOD
+		
+	}
+```
+
+## Nested Interfaces
+An interface can be implemented as a member of another class or interface<br>
+[Nested Interfaces](https://github.com/Nehasingh1300/Java/blob/master/NestedInterface.java)<br>
+``
+className.interfaceName // to access the nested interface
+``
+
 # CODE
 [Using interface and class all together](https://github.com/Nehasingh1300/Java/blob/master/InterfacingCode.java)<br>
 [Using Interfaces](https://github.com/Nehasingh1300/Java/blob/master/MYClass.java)<br>
 [Constant usage of Interface](https://github.com/Nehasingh1300/Java/blob/master/ConstantINTERFACE.java)<br>
 [Division Modulus Interface](https://github.com/Nehasingh1300/Java/blob/master/DivModInterface.java)
+<br>[Stub Methods](https://github.com/Nehasingh1300/Java/blob/master/StubMethods.java)<br>
+[Nested Interfaces](https://github.com/Nehasingh1300/Java/blob/master/NestedInterface.java)<br>
