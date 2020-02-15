@@ -98,6 +98,13 @@ IT is quite similar to default <br>
 <br>Both class and interface can have static methods with same names, and neither overrides other!
 [Check Difference](https://stackoverflow.com/questions/27833168/difference-between-static-and-default-methods-in-interface)
 
+## Annotations
+Annotations start with ‘@’.<br>
+Annotations do not change action of a compiled program.<br>
+Annotations help to associate metadata (information) to the program elements i.e. instance variables, constructors, methods, classes, etc.<br>
+Annotations are not pure comments as they can change the way a program is treated by compiler. See below code for example.
+<br>
+[Annotations](https://github.com/Nehasingh1300/Java/blob/master/Annotation.java)
 
 # CODE
 [Using interface and class all together](https://github.com/Nehasingh1300/Java/blob/master/InterfacingCode.java)<br>
