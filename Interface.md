@@ -67,10 +67,14 @@ We have to  define all abstract methods of interface in its subclass, if we do n
 
 ## Nested Interfaces
 An interface can be implemented as a member of another class or interface<br>
-[Nested Interfaces](https://github.com/Nehasingh1300/Java/blob/master/NestedInterface.java)<br>
 ``
 className.interfaceName // to access the nested interface
 ``
+[Nested Interfaces](https://github.com/Nehasingh1300/Java/blob/master/NestedInterface.java)<br>
+
+## Inheritance Of Intetrfaces
+[Code][https://github.com/Nehasingh1300/Java/blob/master/Inheritance%20Of%20Interfaces.java)<br>
+
 
 # CODE
 [Using interface and class all together](https://github.com/Nehasingh1300/Java/blob/master/InterfacingCode.java)<br>
