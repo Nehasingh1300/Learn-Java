@@ -35,3 +35,6 @@ Member inherited from any super interface that it extends<br>
 Methods declared in interface are implicitly public abstract member methods<br>
 Field varibles in interface are public, static and final and so should be initialized<br>
 Static and Default methods with full defination can slao be member of interface<br>
+
+# CODE
+[Using interface and class all together](https://github.com/Nehasingh1300/Java/blob/master/InterfacingCode.java)
