@@ -90,6 +90,15 @@ public interface MyInterface {
 ```
 [Defalut Method](https://github.com/Nehasingh1300/Java/blob/master/DefaultMethod.java)<br>
 
+## Static Keyword 
+IT is quite similar to default <br>
+**Difference between static and default**
+<br>Default methods can be overriden in implementing class, while static cannot.
+<br>Static method belongs only to Interface class, so you can only invoke static method on Interface class.
+<br>Both class and interface can have static methods with same names, and neither overrides other!
+[Check Difference](https://stackoverflow.com/questions/27833168/difference-between-static-and-default-methods-in-interface)
+
+
 # CODE
 [Using interface and class all together](https://github.com/Nehasingh1300/Java/blob/master/InterfacingCode.java)<br>
 [Using Interfaces](https://github.com/Nehasingh1300/Java/blob/master/MYClass.java)<br>
@@ -98,3 +107,4 @@ public interface MyInterface {
 <br>[Stub Methods](https://github.com/Nehasingh1300/Java/blob/master/StubMethods.java)<br>
 [Nested Interfaces](https://github.com/Nehasingh1300/Java/blob/master/NestedInterface.java)<br>
 [Defalut Method](https://github.com/Nehasingh1300/Java/blob/master/DefaultMethod.java)<br>
+
