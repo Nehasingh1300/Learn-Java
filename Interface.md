@@ -75,6 +75,20 @@ className.interfaceName // to access the nested interface
 ## Inheritance Of Interfaces
 [Code][https://github.com/Nehasingh1300/Java/blob/master/Inheritance%20Of%20Interfaces.java)<br>
 
+## Default Keyword
+Default keyword at the beginning of the method signature, and they provide an implementation.<br>
+Let's see a simple example:<br>
+```
+public interface MyInterface {
+     
+    // regular interface methods
+     
+    default void defaultMethod() {
+        // default method implementation        DEFINATION OF METHID INSIDE INTERFACE
+    }
+}
+```
+[Defalut Method](https://github.com/Nehasingh1300/Java/blob/master/DefaultMethod.java)<br>
 
 # CODE
 [Using interface and class all together](https://github.com/Nehasingh1300/Java/blob/master/InterfacingCode.java)<br>
@@ -83,3 +97,4 @@ className.interfaceName // to access the nested interface
 [Division Modulus Interface](https://github.com/Nehasingh1300/Java/blob/master/DivModInterface.java)
 <br>[Stub Methods](https://github.com/Nehasingh1300/Java/blob/master/StubMethods.java)<br>
 [Nested Interfaces](https://github.com/Nehasingh1300/Java/blob/master/NestedInterface.java)<br>
+[Defalut Method](https://github.com/Nehasingh1300/Java/blob/master/DefaultMethod.java)<br>
