@@ -39,3 +39,4 @@ Static and Default methods with full defination can slao be member of interface<
 # CODE
 [Using interface and class all together](https://github.com/Nehasingh1300/Java/blob/master/InterfacingCode.java)
 [Using Interfaces](https://github.com/Nehasingh1300/Java/blob/master/MYClass.java)
+[Constant usage of Interface](https://github.com/Nehasingh1300/Java/blob/master/ConstantINTERFACE.java)
