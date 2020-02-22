@@ -7,3 +7,4 @@ I love to learn new things and commit that to **OPEN COMMUNITY**, so that others
 
 [CHECK MY ACCOUNT TO LEARN OTHER TECHNOLOGY](https://github.com/Nehasingh1300)<br>
 [CHECK JAVA CODES](https://github.com/Nehasingh1300/Java)
+#TRY THIS [CODE](https://github.com/Nehasingh1300/Java/blob/master/PrintName.java) 
