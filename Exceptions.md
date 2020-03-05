@@ -3,9 +3,10 @@ Java defines several types of exceptions that relate to its various class librar
 <br>
 ## ArithmeticException
 It is thrown when an exceptional condition has occurred in an arithmetic operation.
-[Code](https://github.com/Nehasingh1300/Java/blob/master/ArrayOutOfBound.java)
+[Code](https://github.com/Nehasingh1300/Java/blob/master/DivideByZero.java)
 ## ArrayIndexOutOfBoundsException
-It is thrown to indicate that an array has been accessed with an illegal index. The index is either negative or greater than or equal to the size of the array.
+It is thrown to indicate that an array has been accessed with an illegal index. The index is either negative or greater than or equal to the size of the array.<br>
+[Code](https://github.com/Nehasingh1300/Java/blob/master/ArrayOutOfBound.java)
 ## ClassNotFoundException
 This Exception is raised when we try to access a class whose definition is not found
 ## FileNotFoundException
