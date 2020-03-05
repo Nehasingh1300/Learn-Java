@@ -27,3 +27,5 @@ This exception is raised when a method could not convert a string into a numeric
 This represents any exception which occurs during runtime.
 ## StringIndexOutOfBoundsException
 It is thrown by String class methods to indicate that an index is either negative than the size of the string
+## Inputmismatch Exception
+This exception is thrown by an instance of the Scanner class to indicate that a retrieved token does not match the pattern for the expected type, or that the retrieved token is out of range.<br>[Code](https://github.com/Nehasingh1300/Java/blob/master/InputMisMatch.java)
