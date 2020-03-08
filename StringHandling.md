@@ -37,3 +37,7 @@ StringBuffer deleteCharAt(int loc)<br>
 StringBuffer replace(int startIndex, int endIndex, String str)<br>
 
 [Code](https://github.com/Nehasingh1300/Java/blob/master/StringHandling.java)
+[Case Console](https://github.com/Nehasingh1300/Java/blob/master/CaseConsole.java)
+[First and last occurence](https://github.com/Nehasingh1300/Java/blob/master/FirstAndLastOccurence.java)
+[small to capital letters](https://github.com/Nehasingh1300/Java/blob/master/SmallToCapital.java)
+
