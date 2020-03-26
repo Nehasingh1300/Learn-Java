@@ -13,7 +13,7 @@ Timed Waiting − A runnable thread can enter the timed waiting state for a spec
 Terminated (Dead) − A runnable thread enters the terminated state when it completes its task or otherwise terminates.<br>
 
 ## Commonly used methods of Thread class:
-public void run(): is used to perform action for a thread.<br>
+[public void run()](https://github.com/Nehasingh1300/Java/blob/master/ThreadRun.java): is used to perform action for a thread.<br>
 public void start(): starts the execution of the thread.JVM calls the run() method on the thread.<br>
 public void sleep(long miliseconds): Causes the currently executing thread to sleep (temporarily cease execution) for the specified number of milliseconds.<br>
 public void join(): waits for a thread to die.<br>
