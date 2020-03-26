@@ -11,6 +11,7 @@ Waiting − Sometimes, a thread transitions to the waiting state while the threa
 Timed Waiting − A runnable thread can enter the timed waiting state for a specified interval of time. A thread in this state transitions back to the runnable state when that time interval expires or when the event it is waiting for occurs.
 <br>
 Terminated (Dead) − A runnable thread enters the terminated state when it completes its task or otherwise terminates.<br>
+
 ## Commonly used methods of Thread class:
 public void run(): is used to perform action for a thread.<br>
 public void start(): starts the execution of the thread.JVM calls the run() method on the thread.<br>
