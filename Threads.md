@@ -21,19 +21,19 @@ Terminated (Dead) − A runnable thread enters the terminated state when it comp
 [public int getPriority()](https://github.com/Nehasingh1300/Java/blob/master/ThreadGetPriority.java): returns the priority of the thread.<br>
 [public int setPriority(int priority)](https://github.com/Nehasingh1300/Java/blob/master/ThreadSetPriority.java): changes the priority of the thread.<br>
 [public String getName()](https://github.com/Nehasingh1300/Java/blob/master/ThreadGetName1.java): returns the name of the thread.<br>[Confusion](https://github.com/Nehasingh1300/Java/blob/master/GetName.java)<br>
-public void setName(String name): changes the name of the thread.<br>
-public Thread currentThread(): returns the reference of currently executing thread.<br>
-public int getId(): returns the id of the thread.<br>
-public Thread.State getState(): returns the state of the thread.<br>
-public boolean isAlive(): tests if the thread is alive.<br>
-public void yield(): causes the currently executing thread object to temporarily pause and allow other threads to execute.<br>
-public void suspend(): is used to suspend the thread(depricated).<br>
-public void resume(): is used to resume the suspended thread(depricated).<br>
-public void stop(): is used to stop the thread(depricated).<br>
-public boolean isDaemon(): tests if the thread is a daemon thread.<br>
-public void setDaemon(boolean b): marks the thread as daemon or user thread.<br>
-public void interrupt(): interrupts the thread.<br>
-public boolean isInterrupted(): tests if the thread has been interrupted.<br>
-public static boolean interrupted(): tests if the current thread has been interrupted.<br>
+[public void setName(String name)](https://github.com/Nehasingh1300/Java/blob/master/ThreadSetName.java): changes the name of the thread.<br>
+[public Thread currentThread()](https://github.com/Nehasingh1300/Java/blob/master/CurrentThread.java): returns the reference of currently executing thread.<br>
+[public int getId()](https://github.com/Nehasingh1300/Java/blob/master/ThreadGetId.java): returns the id of the thread.<br>
+[public Thread.State getState()](https://github.com/Nehasingh1300/Java/blob/master/ThreadGetState.java): returns the state of the thread.<br>
+[public boolean isAlive()](https://github.com/Nehasingh1300/Java/blob/master/ThreadIsAlive.java): tests if the thread is alive.<br>
+[public void yield()](https://github.com/Nehasingh1300/Java/blob/master/ThreadYeild.java): causes the currently executing thread object to temporarily pause and allow other threads to execute.<br>
+[public void suspend()](https://github.com/Nehasingh1300/Java/blob/master/ThreadSuspend.java): is used to suspend the thread(depricated).<br>
+[public void resume()](): is used to resume the suspended thread(depricated).<br>
+[public void stop()](): is used to stop the thread(depricated).<br>
+[public boolean isDaemon()](): tests if the thread is a daemon thread.<br>
+[public void setDaemon(boolean b)](): marks the thread as daemon or user thread.<br>
+[public void interrupt()](): interrupts the thread.<br>
+[public boolean isInterrupted()](): tests if the thread has been interrupted.<br>
+[public static boolean interrupted()](): tests if the current thread has been interrupted.<br>
 <br>[CODE 1](https://github.com/Nehasingh1300/Java/blob/master/threads.java)
 <br>[runnable interface](https://github.com/Nehasingh1300/Java/blob/master/runnableDemo.java)
