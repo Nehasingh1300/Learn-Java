@@ -20,7 +20,7 @@ Terminated (Dead) − A runnable thread enters the terminated state when it comp
 [public void join(long miliseconds)](https://github.com/Nehasingh1300/Java/blob/master/ThreadJoinLong.java): waits for a thread to die for the specified miliseconds.<br>
 [public int getPriority()](https://github.com/Nehasingh1300/Java/blob/master/ThreadGetPriority.java): returns the priority of the thread.<br>
 [public int setPriority(int priority)](https://github.com/Nehasingh1300/Java/blob/master/ThreadSetPriority.java): changes the priority of the thread.<br>
-[public String getName()](https://github.com/Nehasingh1300/Java/blob/master/ThreadGetName1.java): returns the name of the thread.<br>[Confusion]()<br>
+[public String getName()](https://github.com/Nehasingh1300/Java/blob/master/ThreadGetName1.java): returns the name of the thread.<br>[Confusion](https://github.com/Nehasingh1300/Java/blob/master/GetName.java)<br>
 public void setName(String name): changes the name of the thread.<br>
 public Thread currentThread(): returns the reference of currently executing thread.<br>
 public int getId(): returns the id of the thread.<br>
