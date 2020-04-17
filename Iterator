@@ -1,0 +1,10 @@
+Java Iterator
+In Java, Iterator is an interface available in Collection framework in java.util package. It is a Java Cursor used to iterate a collection of objects.
+
+It is used to traverse a collection object elements one by one.
+It is available since Java 1.2 Collection Framework.
+It is applicable for all Collection classes. So it is also known as Universal Java Cursor.
+It supports both READ and REMOVE Operations.
+Compare to Enumeration interface, Iterator method names are simple and easy to use.
+
+[Code](https://github.com/Nehasingh1300/Learn-Java/blob/master/Iterator.java)
